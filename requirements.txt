@@ -1,0 +1,16 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+websockets==12.0
+pydantic==2.7.1
+pydantic-settings==2.3.0
+python-multipart==0.0.9
+httpx==0.27.0
+aiohttp==3.9.5
+# AST & code analysis
+astpretty==3.0.0
+# LLM integration (Mistral via Ollama or HuggingFace)
+huggingface-hub==0.23.3
+# Utilities
+python-dotenv==1.0.1
+structlog==24.2.0
+anyio==4.4.0
